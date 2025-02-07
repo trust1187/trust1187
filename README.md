@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![0xAA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmazingAng&count_private=true&show_icons=true&theme=tokyonight)
+![trust1187's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmazingAng&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingAng&count_private=true&show_icons=true&theme=tokyonight)
