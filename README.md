@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**trust1187/trust1187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AmazingAng/AmazingAng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![0xAA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmazingAng&count_private=true&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingAng&count_private=true&show_icons=true&theme=tokyonight)
+
+
+ticket number (5340) is for request unblock scivault.fun
+SciVault Protocol is a decentralized platform designed to enable permanent publication of research papers
+
